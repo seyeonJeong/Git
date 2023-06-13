@@ -59,5 +59,15 @@ Practice for Git
 ![wf3](https://github.com/seyeonJeong/Git/assets/81068870/0fe3bb9b-934d-4885-9446-141e32fb7d03)
 ![wf4](https://github.com/seyeonJeong/Git/assets/81068870/4888943a-2aa6-450b-80c8-f21da83184f9) </br></br>
 
+## 📼 Demo Video
 
-![gif1`](https://github.com/seyeonJeong/Git/assets/81068870/223d37ce-8acb-4124-8543-234a6e286760)
+<b>weather</b></br></br>
+![gif1](https://github.com/seyeonJeong/Git/assets/81068870/4202314a-6ac3-4aec-8e6a-e780d84b151a)</br>
+
+<b>traffic</b></br></br>
+![gif2](https://github.com/seyeonJeong/Git/assets/81068870/8a1b45a0-a34a-4b2e-8c99-d72ddaa6a7f0)</br>
+
+<b>weather&traffic</b></br></br>
+![gif1`](https://github.com/seyeonJeong/Git/assets/81068870/223d37ce-8acb-4124-8543-234a6e286760)</br>
+
+
