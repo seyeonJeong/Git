@@ -68,6 +68,6 @@ Practice for Git
 ![gif2](https://github.com/seyeonJeong/Git/assets/81068870/8a1b45a0-a34a-4b2e-8c99-d72ddaa6a7f0)</br>
 
 <b>weather&traffic</b></br></br>
-![gif1`](https://github.com/seyeonJeong/Git/assets/81068870/223d37ce-8acb-4124-8543-234a6e286760)</br>
+![gif3](https://github.com/seyeonJeong/Git/assets/81068870/c6ad4757-969e-4d3d-91a2-c66d0f0c14de)</br>
 
 
