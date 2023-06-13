@@ -25,5 +25,10 @@ Practice for Git
 김성연 (https://github.com/Yeons0110)
 
 ## 기술 스택
-<img src="https://img.shields.io/badge/react-#61DAFB?style=flat&logo=react&logoColor=white"/>
+
+Front-end
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+Back-end
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
