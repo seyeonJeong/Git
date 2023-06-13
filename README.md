@@ -38,5 +38,10 @@ Practice for Git
 
 ## 구현 기능
 
-⛅ 날씨
+⛅ 날씨</br>
+
 ![weather1](https://github.com/seyeonJeong/Git/assets/81068870/17057a5c-f7cc-4a98-a04b-ef2a8019f7fb)
+![weather2](https://github.com/seyeonJeong/Git/assets/81068870/be38ca44-3608-4d0d-b66c-062b055be95a)
+![weather3](https://github.com/seyeonJeong/Git/assets/81068870/97bf8c71-cc47-4880-8502-5c45fc8f4f91)
+![weather4](https://github.com/seyeonJeong/Git/assets/81068870/0fe9a625-25f3-47a6-b797-6aa7c052a915)
+![weather5](https://github.com/seyeonJeong/Git/assets/81068870/7edb49ac-66af-4bda-901c-183183f85a1f)
