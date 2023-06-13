@@ -60,3 +60,4 @@ Practice for Git
 ![wf4](https://github.com/seyeonJeong/Git/assets/81068870/4888943a-2aa6-450b-80c8-f21da83184f9) </br></br>
 
 
+![gif1`](https://github.com/seyeonJeong/Git/assets/81068870/223d37ce-8acb-4124-8543-234a6e286760)
