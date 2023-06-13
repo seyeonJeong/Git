@@ -18,3 +18,7 @@ Practice for Git
 
 👉 이를 통해 날씨에 따라 사람들의 이동 여부 결정에 도움
 
+## 멤버
+
+[정세연] (https://github.com/seyeonJeong)
+
