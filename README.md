@@ -20,5 +20,10 @@ Practice for Git
 
 ## 멤버
 
-[정세연] (https://github.com/seyeonJeong)
+정세연 (https://github.com/seyeonJeong)
+한서영 (https://github.com/seoyounghan)
+김성연 (https://github.com/Yeons0110)
+
+## 기술 스택
+<img src="https://img.shields.io/badge/react-#61DAFB?style=flat&logo=react&logoColor=white"/>
 
