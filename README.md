@@ -34,4 +34,9 @@ Practice for Git
 
 ## 사용 데이터
 
-⛅
+[✨ Corweather-data ✨] (https://github.com/DataCrewCorweather/data) 참조
+
+## 구현 기능
+
+⛅ 날씨
+![weather1](https://github.com/seyeonJeong/Git/assets/81068870/17057a5c-f7cc-4a98-a04b-ef2a8019f7fb)
