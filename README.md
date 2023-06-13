@@ -5,7 +5,7 @@ Practice for Git
 2023년 충북대학교 빅데이터시스템 
 
 
-[✨ Corweather-backend ✨](http://www.festival-ing.com)
+[✨ Corweather-backend ✨](https://github.com/DataCrewCorweather/Corweather_server)
 
 
-[✨ Corweather-data ✨](https://www.festival-ing.org/#/)
+[✨ Corweather-data ✨] (https://github.com/DataCrewCorweather/data)
