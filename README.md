@@ -38,7 +38,7 @@ Practice for Git
 
 ## 구현 기능
 
-⛅ 날씨</br>
+⛅ <b>날씨</b></br>
 
 ![weather1](https://github.com/seyeonJeong/Git/assets/81068870/17057a5c-f7cc-4a98-a04b-ef2a8019f7fb)
 ![weather2](https://github.com/seyeonJeong/Git/assets/81068870/9c86463e-c55d-4313-a80e-976629ba49cc)
