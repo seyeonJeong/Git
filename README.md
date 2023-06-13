@@ -9,3 +9,11 @@ Practice for Git
 
 
 [✨ Corweather-data ✨] (https://github.com/DataCrewCorweather/data)
+
+## 프로젝트 목표
+⛅ 날씨 데이터 시각화
+📊 날씨와 교통 데이터 상관관계 시각화
+🚕 교통 데이터 시각화
+
+👉 이를 통해 날씨에 따라 사람들의 이동 여부 결정에 도움
+
