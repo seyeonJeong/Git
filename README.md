@@ -41,7 +41,20 @@ Practice for Git
 ⛅ 날씨</br>
 
 ![weather1](https://github.com/seyeonJeong/Git/assets/81068870/17057a5c-f7cc-4a98-a04b-ef2a8019f7fb)
-![weather2](https://github.com/seyeonJeong/Git/assets/81068870/be38ca44-3608-4d0d-b66c-062b055be95a)
-![weather3](https://github.com/seyeonJeong/Git/assets/81068870/97bf8c71-cc47-4880-8502-5c45fc8f4f91)
+![weather2](https://github.com/seyeonJeong/Git/assets/81068870/9c86463e-c55d-4313-a80e-976629ba49cc)
+![weather3](https://github.com/seyeonJeong/Git/assets/81068870/67e03c82-bb74-4e28-a86a-96caddd905c6)
 ![weather4](https://github.com/seyeonJeong/Git/assets/81068870/0fe9a625-25f3-47a6-b797-6aa7c052a915)
-![weather5](https://github.com/seyeonJeong/Git/assets/81068870/7edb49ac-66af-4bda-901c-183183f85a1f)
+![weather5](https://github.com/seyeonJeong/Git/assets/81068870/1ce2fbbf-f173-4cb5-b6fc-c648a4fe73a8)
+
+🚕 교통</br>
+![traffic1](https://github.com/seyeonJeong/Git/assets/81068870/0552578e-9b43-4f24-b3f5-fc08c2daf4ea)
+![traffic2](https://github.com/seyeonJeong/Git/assets/81068870/70f409b8-42f4-4d56-9364-851ecd538f7d)
+![traffic3](https://github.com/seyeonJeong/Git/assets/81068870/0fbd0e8d-759b-42e6-b552-314f6f50694c)
+![traffic4](https://github.com/seyeonJeong/Git/assets/81068870/784fd405-6ed0-4518-b3eb-827c3800c9f0)
+![traffic5](https://github.com/seyeonJeong/Git/assets/81068870/3c3f4275-c2b8-48a5-bfe8-60e78d45d2d9)
+
+📊 날씨&교통</br>
+![wf1](https://github.com/seyeonJeong/Git/assets/81068870/8a9b2c23-cab2-4a41-ac9d-32661ed7c39c)
+![wf2](https://github.com/seyeonJeong/Git/assets/81068870/936ae4dc-b58b-42f9-8e9c-18c90c7c4bb6)
+![wf3](https://github.com/seyeonJeong/Git/assets/81068870/0fe3bb9b-934d-4885-9446-141e32fb7d03)
+![wf4](https://github.com/seyeonJeong/Git/assets/81068870/4888943a-2aa6-450b-80c8-f21da83184f9)
